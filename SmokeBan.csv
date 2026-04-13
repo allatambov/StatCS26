@@ -1,0 +1,357 @@
+smoker,ban,age,education,gender
+yes,yes,18,hs drop out,female
+no,no,35,some college,female
+yes,no,34,hs,male
+no,no,35,some college,female
+yes,yes,20,hs,female
+no,yes,46,master,male
+no,yes,35,hs,male
+no,no,33,some college,male
+no,yes,43,master,female
+yes,no,64,some college,female
+no,yes,45,hs drop out,male
+yes,no,39,hs,male
+no,no,56,hs,male
+no,no,54,hs,female
+no,yes,42,some college,female
+no,yes,31,some college,male
+no,yes,34,college,female
+yes,yes,40,hs,male
+no,no,28,some college,female
+no,yes,28,some college,female
+yes,no,29,hs,female
+no,yes,34,master,male
+no,no,28,hs,female
+no,yes,45,hs,female
+yes,yes,33,hs,female
+no,yes,69,some college,female
+yes,yes,39,hs,male
+no,yes,41,some college,male
+no,no,60,hs drop out,female
+no,yes,59,some college,male
+no,no,24,hs,female
+yes,yes,33,hs,female
+yes,no,44,some college,female
+no,yes,49,some college,female
+no,yes,33,hs drop out,female
+no,no,26,hs,female
+yes,no,44,hs,male
+yes,yes,48,some college,male
+no,yes,25,hs,female
+no,yes,55,hs,female
+no,no,27,hs drop out,male
+no,no,23,hs,female
+no,no,32,master,male
+no,yes,29,college,male
+yes,yes,28,hs drop out,male
+yes,no,22,some college,female
+yes,yes,54,some college,male
+no,yes,22,college,female
+no,no,18,hs,female
+no,no,18,hs,male
+no,no,28,hs,female
+yes,no,31,hs,male
+no,no,39,college,male
+no,yes,27,hs drop out,female
+no,yes,41,hs,female
+no,yes,49,some college,female
+no,yes,43,some college,male
+no,yes,53,college,female
+no,no,39,hs drop out,female
+no,yes,36,hs,female
+yes,no,32,hs,male
+no,no,22,hs drop out,male
+no,yes,36,some college,male
+no,yes,27,master,male
+no,no,39,hs drop out,male
+no,yes,27,hs,male
+no,yes,31,some college,male
+no,yes,31,hs,female
+yes,no,27,hs,female
+no,yes,30,hs,female
+no,no,25,some college,male
+yes,yes,56,some college,male
+yes,yes,46,hs,female
+no,yes,45,hs drop out,female
+yes,yes,41,hs,male
+no,no,42,hs,female
+no,no,46,some college,male
+no,yes,71,hs drop out,female
+no,no,52,hs,female
+no,yes,37,some college,female
+no,yes,37,some college,male
+no,yes,43,hs,female
+yes,no,55,hs,male
+no,yes,44,hs,female
+no,yes,49,hs drop out,female
+no,yes,46,some college,female
+no,yes,38,hs,male
+no,no,32,hs,female
+no,yes,38,college,female
+no,yes,23,college,male
+no,yes,40,master,female
+no,yes,36,some college,female
+no,no,50,college,female
+no,no,39,college,male
+yes,no,21,college,male
+no,yes,33,hs,female
+no,no,43,hs,male
+no,yes,34,hs,female
+yes,yes,39,some college,male
+no,yes,21,hs,female
+no,yes,51,hs,female
+no,no,36,hs,female
+no,no,21,some college,male
+no,no,52,some college,male
+yes,yes,34,hs,female
+no,yes,40,college,male
+no,no,21,some college,male
+no,yes,39,some college,female
+no,yes,20,hs,female
+no,yes,34,master,female
+no,yes,42,college,male
+no,yes,56,hs drop out,female
+no,yes,48,some college,female
+no,no,43,some college,female
+no,no,34,some college,female
+no,no,31,some college,female
+no,yes,45,hs drop out,male
+no,no,31,some college,male
+no,yes,56,hs,female
+no,yes,39,college,female
+no,yes,49,hs,female
+no,no,27,some college,female
+no,no,29,hs drop out,female
+no,no,30,college,male
+no,yes,50,hs,female
+yes,no,53,hs,female
+yes,yes,31,hs,female
+no,yes,36,college,male
+no,no,21,some college,female
+no,yes,40,hs,female
+no,no,20,hs,male
+no,yes,18,hs,male
+no,yes,45,some college,male
+yes,no,53,master,male
+no,yes,23,some college,male
+no,yes,47,hs,male
+no,yes,46,some college,male
+no,yes,51,hs,female
+no,no,59,hs,female
+no,yes,64,hs,female
+yes,no,36,hs drop out,male
+no,no,20,some college,male
+no,yes,27,some college,female
+no,yes,45,master,female
+no,yes,26,hs drop out,female
+no,yes,51,college,male
+no,yes,22,master,female
+no,yes,46,hs,female
+yes,no,46,hs drop out,female
+no,yes,40,master,male
+no,yes,58,some college,male
+no,yes,42,college,female
+yes,yes,31,hs,male
+yes,yes,20,hs,male
+no,yes,43,some college,male
+no,yes,41,hs,male
+no,yes,28,hs,female
+yes,no,18,hs,female
+yes,yes,47,college,female
+no,yes,43,college,female
+no,yes,56,hs,male
+no,no,61,master,male
+no,no,35,hs,female
+yes,yes,34,hs,female
+no,yes,55,some college,male
+no,yes,72,hs,female
+no,no,39,hs,male
+yes,yes,47,some college,male
+yes,yes,31,college,female
+no,yes,44,some college,male
+yes,yes,56,hs,female
+no,yes,30,college,female
+no,yes,40,college,male
+no,yes,27,some college,female
+yes,yes,37,hs,female
+no,yes,35,master,male
+no,yes,70,hs,male
+no,yes,28,some college,male
+yes,yes,43,hs,female
+no,yes,55,master,female
+no,yes,42,college,male
+no,yes,60,hs,male
+no,no,25,some college,male
+no,yes,22,hs,female
+no,yes,27,college,male
+no,no,43,hs,female
+no,yes,35,college,male
+no,yes,39,some college,female
+no,yes,57,hs drop out,female
+yes,yes,39,hs,male
+no,yes,55,college,male
+no,yes,27,college,female
+no,no,23,some college,male
+no,yes,61,hs,female
+no,yes,47,some college,female
+yes,yes,39,hs,female
+no,no,40,master,male
+no,yes,24,college,male
+no,no,80,hs drop out,male
+no,no,39,hs,male
+yes,yes,21,hs,male
+yes,no,47,college,female
+no,no,57,some college,female
+no,yes,25,hs,male
+no,no,27,some college,male
+no,yes,35,college,male
+no,yes,50,hs,female
+no,yes,61,college,female
+no,yes,45,college,female
+no,yes,48,some college,male
+no,no,31,college,female
+yes,yes,33,hs,female
+no,no,32,hs,female
+no,no,50,hs,male
+no,yes,38,hs,male
+no,no,25,hs,male
+yes,no,32,college,male
+no,no,41,some college,male
+no,no,33,hs,male
+no,no,61,some college,female
+no,yes,33,hs,female
+no,no,36,college,female
+no,no,52,hs drop out,female
+yes,no,40,hs,male
+no,yes,43,college,female
+no,yes,28,college,female
+no,yes,53,college,male
+no,yes,31,hs,female
+no,yes,38,college,male
+yes,yes,52,hs drop out,male
+no,yes,77,hs,female
+no,yes,44,college,male
+no,yes,36,hs,female
+no,no,23,some college,male
+no,yes,42,college,female
+no,yes,28,some college,male
+no,no,24,master,male
+yes,no,24,hs,male
+no,no,23,some college,male
+no,no,43,some college,male
+yes,yes,30,some college,female
+no,yes,35,some college,female
+yes,no,25,hs,male
+yes,yes,32,hs,female
+no,yes,28,some college,female
+no,no,33,master,female
+yes,no,51,some college,male
+no,no,25,some college,male
+no,yes,27,college,male
+no,no,38,college,female
+no,yes,24,college,female
+no,yes,41,college,female
+yes,yes,40,hs,female
+no,no,21,some college,female
+no,no,48,college,male
+no,yes,36,college,male
+no,yes,33,some college,female
+yes,no,22,college,female
+yes,no,33,hs,male
+no,no,56,some college,female
+no,no,18,hs drop out,female
+yes,yes,47,hs drop out,female
+no,no,51,some college,male
+no,yes,63,college,female
+no,no,40,master,female
+no,yes,23,hs,female
+yes,no,47,hs,female
+yes,yes,19,hs,male
+no,no,30,some college,female
+no,no,80,hs drop out,male
+no,yes,34,college,male
+no,yes,68,hs,male
+no,yes,35,college,female
+no,yes,49,some college,male
+no,yes,59,master,female
+no,no,31,hs,female
+no,no,33,college,male
+no,yes,30,master,female
+yes,no,42,hs,male
+no,yes,64,hs,male
+no,no,50,college,male
+no,yes,37,college,female
+no,no,48,master,male
+no,yes,39,some college,female
+no,no,34,some college,male
+yes,no,25,hs drop out,male
+no,yes,48,some college,male
+no,no,66,master,female
+yes,no,36,some college,female
+yes,no,32,hs,female
+yes,no,41,hs drop out,male
+no,yes,37,master,male
+no,no,34,some college,male
+no,yes,45,hs drop out,female
+no,no,25,some college,male
+no,yes,26,college,female
+yes,yes,31,some college,male
+yes,yes,18,hs,female
+yes,yes,44,master,female
+no,yes,50,some college,female
+no,yes,28,some college,female
+no,no,18,hs,female
+no,yes,52,some college,female
+no,no,24,college,female
+yes,yes,40,hs,female
+no,yes,28,some college,female
+no,no,26,hs drop out,male
+no,no,34,hs,male
+no,no,19,hs,male
+no,no,32,some college,female
+no,yes,26,college,male
+no,no,39,hs,female
+yes,yes,58,hs drop out,male
+yes,no,34,hs,female
+yes,no,42,some college,female
+no,yes,43,some college,male
+no,no,69,some college,female
+no,no,42,hs,female
+no,no,42,hs,male
+no,no,34,hs,female
+yes,no,26,college,female
+yes,no,46,hs,male
+no,no,58,hs drop out,male
+yes,no,23,hs,female
+no,no,33,college,female
+no,yes,35,some college,male
+no,yes,55,some college,female
+no,no,34,hs,female
+no,no,36,some college,female
+no,no,20,hs drop out,male
+no,no,52,hs,male
+no,yes,29,master,male
+no,yes,42,college,female
+no,no,26,hs,female
+no,no,37,hs,female
+yes,yes,41,some college,female
+yes,yes,40,hs,male
+no,yes,19,some college,female
+no,no,35,college,female
+yes,no,71,college,male
+no,yes,32,hs drop out,female
+yes,no,22,some college,male
+no,yes,33,college,male
+yes,yes,50,college,female
+yes,yes,46,hs,female
+no,yes,48,some college,female
+yes,yes,39,master,male
+no,yes,35,master,male
+yes,no,56,hs,female
+no,yes,65,hs,female
+no,no,45,college,male
+no,yes,20,some college,female
+no,no,44,some college,male
+no,yes,42,college,female
+no,yes,58,some college,female
+yes,no,46,hs,male
